@@ -222,7 +222,7 @@ Every extra gate is another place the Pauli sum is rotated and truncated. Mergin
 
 ## Reproducing this
 
-The repository contains:
+All the code is on GitHub: [github.com/MonitSharma/bluequbit-otoc-hackathon](https://github.com/MonitSharma/bluequbit-otoc-hackathon). The repository contains:
 
 - `src/runner.py`: a resumable BlueQubit runner;
 - `src/adaptive.py`: the per-circuit tightest-threshold GPU runner;
