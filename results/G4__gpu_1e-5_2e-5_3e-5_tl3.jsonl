@@ -1,0 +1,7 @@
+{"q": 1, "value": -0.051813046102601845, "thr": 2e-05, "status": "COMPLETED", "wall": 54.0, "cost": 0.2, "job_id": "LE0n1L2TauR06oy8"}
+{"q": 7, "value": -0.05582824226879156, "thr": 2e-05, "status": "COMPLETED", "wall": 76.6, "cost": 0.2, "job_id": "m8rUDZWbNUoWsC1g"}
+{"q": 8, "value": -0.04861300842293671, "thr": 2e-05, "status": "COMPLETED", "wall": 132.1, "cost": 0.2, "job_id": "EI2Vku9GWyU1s0Lv"}
+{"q": 10, "value": -0.05878446027664562, "thr": 2e-05, "status": "COMPLETED", "wall": 86.6, "cost": 0.2, "job_id": "EP23jb7lHV4NTGUP"}
+{"q": 25, "value": -0.02464535835859517, "thr": 2e-05, "status": "COMPLETED", "wall": 63.0, "cost": 0.2, "job_id": "IiRcPHXV2UVGcvLK"}
+{"q": 27, "value": -0.030878559249949967, "thr": 1e-05, "status": "COMPLETED", "wall": 76.5, "cost": 0.2, "job_id": "ToOvwUDfmaBnt4HC"}
+{"q": 34, "value": -0.05600064915889927, "thr": 2e-05, "status": "COMPLETED", "wall": 52.8, "cost": 0.2, "job_id": "SWcWKwxvAd8QqdyW"}

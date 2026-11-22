@@ -1,0 +1,8 @@
+{"q": 0, "value": null, "status": "SUBMIT_ERROR", "error": "Job NLfJld6ih0ANABKB finished with status: FAILED_VALIDATION. Truncation threshold used is too small for the input circuit/observable. It could lead to memory overflow. Please try with a larger value of truncation threshold."}
+{"q": 1, "value": null, "status": "SUBMIT_ERROR", "error": "Job J0Iwzv79Ed9HTBNT finished with status: FAILED_VALIDATION. Truncation threshold used is too small for the input circuit/observable. It could lead to memory overflow. Please try with a larger value of truncation threshold."}
+{"q": 2, "value": null, "status": "SUBMIT_ERROR", "error": "Job aoe4Ia0R4I8Tgsnl finished with status: FAILED_VALIDATION. Truncation threshold used is too small for the input circuit/observable. It could lead to memory overflow. Please try with a larger value of truncation threshold."}
+{"q": 3, "id": "MQW_G3_3", "value": 0.925636014389851, "status": "COMPLETED", "job_id": "2xDM0ExkLY8XMcma", "wall": 236.2, "run_time_ms": 227897, "cost": 0.0, "error": null}
+{"q": 4, "id": "MQW_G3_4", "value": -0.10847666892551414, "status": "COMPLETED", "job_id": "I9yk7p8ooQWES2zr", "wall": 2487.2, "run_time_ms": 2474802, "cost": 0.0, "error": null}
+{"q": 5, "id": "MQW_G3_5", "value": 0.06374587314381629, "status": "COMPLETED", "job_id": "IlpcL34CMljrKgm6", "wall": 2110.6, "run_time_ms": 2069902, "cost": 0.0, "error": null}
+{"q": 6, "id": "MQW_G3_6", "value": 0.013027744570296507, "status": "COMPLETED", "job_id": "U173jnUp6llR3CiJ", "wall": 2218.4, "run_time_ms": 2210808, "cost": 0.0, "error": null}
+{"q": 7, "id": "MQW_G3_7", "value": -0.036677552796983676, "status": "COMPLETED", "job_id": "r85o3TGP4vc4Lbvm", "wall": 2265.5, "run_time_ms": 2254311, "cost": 0.0, "error": null}

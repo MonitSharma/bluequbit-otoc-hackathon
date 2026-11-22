@@ -1,0 +1,3 @@
+{"q": 8, "id": "MQW_G3_8", "value": 0.7706603467586277, "status": "COMPLETED", "job_id": "5rCXTbdPcAar6Cvp", "wall": 675.3, "run_time_ms": 666148, "cost": 0.0, "error": null}
+{"q": 3, "id": "MQW_G3_3", "value": 0.9158615185912237, "status": "COMPLETED", "job_id": "ek9TABapmsrMsVXz", "wall": 753.7, "run_time_ms": 752745, "cost": 0.0, "error": null}
+{"q": 29, "id": "MQW_G3_29", "value": 0.6883195988320836, "status": "COMPLETED", "job_id": "7Qgwjvwgxklv8bZI", "wall": 849.7, "run_time_ms": 838795, "cost": 0.0, "error": null}

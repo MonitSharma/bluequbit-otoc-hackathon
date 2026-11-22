@@ -1,0 +1,6 @@
+[BQ-PYTHON-SDK][WARNING] - Beta version 0.19.1b1 of BlueQubit Python SDK is being used.
+G3 pauli-path.gpu {'pauli_path_truncation_threshold': 3e-05} -> /Users/monitsharma/code_projects/otoc/results/G3__pauli-path.gpu_threshold3e-05.jsonl; todo [4]
+[BQ-PYTHON-SDK][INFO] - Submitted: Job ID: Zj6gxiVfOQUEPDzq, name: G3_4_pauli-path.gpu_threshold3e-05, device: pauli-path.gpu, run status: RUNNING, created on: 2026-11-22 02:14:27 UTC, estimated runtime: 100 ms, allowed runtime: 1260000 ms, estimated cost: $0.67, num qubits: 36
+submitted q=4 job=Zj6gxiVfOQUEPDzq
+{"q": 4, "id": "MQW_G3_4", "value": -0.1084766689255141, "status": "COMPLETED", "job_id": "Zj6gxiVfOQUEPDzq", "wall": 20.5, "run_time_ms": 10620, "cost": 0.2, "error": null}
+ALL DONE

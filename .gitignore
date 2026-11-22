@@ -1,0 +1,13 @@
+# secrets
+.bq_token
+*.token
+.env
+
+# environment / caches
+.venv/
+__pycache__/
+*.pyc
+.DS_Store
+
+# duplicates of the extracted sample folders
+data/*.zip

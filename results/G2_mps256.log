@@ -1,0 +1,7 @@
+[BQ-PYTHON-SDK][WARNING] - Beta version 0.19.1b1 of BlueQubit Python SDK is being used.
+G2 mps.cpu {'mps_bond_dimension': 256} -> /Users/monitsharma/code_projects/otoc/results/G2__mps.cpu_dimension256.jsonl; todo [14, 20, 24]
+[BQ-PYTHON-SDK][INFO] - Submitted: Job ID: pynpqM5SFYdLWnJt, name: G2_14_mps.cpu_dimension256, device: mps.cpu, run status: RUNNING, created on: 2026-11-22 02:40:05 UTC, estimated runtime: 48822000 ms, allowed runtime: 54300000.0 ms, estimated cost: $20.35, num qubits: 36, shots: 1024
+submitted q=14 job=pynpqM5SFYdLWnJt
+[BQ-PYTHON-SDK][INFO] - Submitted: Job ID: oKSXZmz0umaH3Mw8, name: G2_20_mps.cpu_dimension256, device: mps.cpu, run status: RUNNING, created on: 2026-11-22 02:40:10 UTC, estimated runtime: 48822000 ms, allowed runtime: 5460000.0 ms, estimated cost: $20.35, num qubits: 36, shots: 1024
+submitted q=20 job=oKSXZmz0umaH3Mw8
+submit failed q=24: Job g93ErF24NnEnRDno finished with status: NOT_ENOUGH_FUNDS. Your circuit is too large for the free tier — try a smaller bond dimension. We recommend you have a balance of at least $40.70 for running such jobs. To run larger circuits, please check out our subscription plans at https://app.bluequbit.

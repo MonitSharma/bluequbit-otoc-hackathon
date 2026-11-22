@@ -1,0 +1,1 @@
+{"q": 24, "value": null, "status": "SUBMIT_ERROR", "error": "Job g93ErF24NnEnRDno finished with status: NOT_ENOUGH_FUNDS. Your circuit is too large for the free tier \u2014 try a smaller bond dimension. We recommend you have a balance of at least $40.70 for running such jobs. To run larger circuits, please check out our subscription plans at https://app.bluequbit.io/billing."}

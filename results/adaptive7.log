@@ -1,0 +1,8 @@
+[BQ-PYTHON-SDK][WARNING] - Beta version 0.19.1b1 of BlueQubit Python SDK is being used.
+G4 [1e-05, 2e-05, 3e-05, 5e-05, 0.0001] /Users/monitsharma/code_projects/otoc/results/G4__gpu_1e-5_2e-5_3e-5_5e-5_1e-4_tl3.jsonl
+q=0 t=2e-05 fail: Job sK5ST6VTJfCIpg9q finished with status: FAILED_VALIDATION. Truncation threshold used is too small for the input circu
+q=0 t=3e-05 fail: Job HC7xo3xDxv7ZBjCg finished with status: FAILED_VALIDATION. Truncation threshold used is too small for the input circu
+[BQ-PYTHON-SDK][INFO] - Submitted: Job ID: 0noz9CS9mVYhtRTR, name: G4_0_gpu5e-05, device: pauli-path.gpu, run status: RUNNING, created on: 2026-11-22 06:49:44 UTC, estimated runtime: 100 ms, allowed runtime: 1260000 ms, estimated cost: $0.67, num qubits: 38
+{"q": 0, "value": -0.00036106945484313396, "thr": 5e-05, "status": "COMPLETED", "wall": 65.4, "cost": 0.2, "job_id": "0noz9CS9mVYhtRTR"}
+q=1 t=1e-05 fail: Job EZgjaTk0mA4n5vRd finished with status: FAILED_VALIDATION. Truncation threshold used is too small for the input circu
+[BQ-PYTHON-SDK][INFO] - Submitted: Job ID: oqJNDKQ1rMnU97DV, name: G4_1_gpu2e-05, device: pauli-path.gpu, run status: RUNNING, created on: 2026-11-22 06:51:04 UTC, estimated runtime: 100 ms, allowed runtime: 1260000 ms, estimated cost: $0.67, num qubits: 38

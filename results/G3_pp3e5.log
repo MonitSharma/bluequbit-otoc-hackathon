@@ -1,0 +1,23 @@
+[BQ-PYTHON-SDK][WARNING] - Beta version 0.19.1b1 of BlueQubit Python SDK is being used.
+G3 pauli-path {'pauli_path_truncation_threshold': 3e-05} -> /Users/monitsharma/code_projects/otoc/results/G3__pauli-path_threshold3e-05.jsonl; todo [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35]
+submit failed q=0: Job VhdUK45cBifSk3x7 finished with status: HACKATHON_PARALLEL_JOBS_LIMIT. Hackathon limit: you can run at most 5 SMALL2 job(s) at the same time, and you already have 5 pending or running. Wait for one to finish, then resubmit.
+submit failed q=0: Job NLfJld6ih0ANABKB finished with status: FAILED_VALIDATION. Truncation threshold used is too small for the input circuit/observable. It could lead to memory overflow. Please try with a larger value of truncation threshold.
+submit failed q=1: Job J0Iwzv79Ed9HTBNT finished with status: FAILED_VALIDATION. Truncation threshold used is too small for the input circuit/observable. It could lead to memory overflow. Please try with a larger value of truncation threshold.
+submit failed q=2: Job aoe4Ia0R4I8Tgsnl finished with status: FAILED_VALIDATION. Truncation threshold used is too small for the input circuit/observable. It could lead to memory overflow. Please try with a larger value of truncation threshold.
+[BQ-PYTHON-SDK][INFO] - Submitted: Job ID: 2xDM0ExkLY8XMcma, name: G3_3_pauli-path_threshold3e-05, device: pauli-path, run status: RUNNING, created on: 2026-11-21 23:16:13 UTC, estimated runtime: 360000000 ms, allowed runtime: 360000000 ms, estimated cost: $25.00, num qubits: 36
+submitted q=3 job=2xDM0ExkLY8XMcma
+{"q": 3, "id": "MQW_G3_3", "value": 0.925636014389851, "status": "COMPLETED", "job_id": "2xDM0ExkLY8XMcma", "wall": 236.2, "run_time_ms": 227897, "cost": 0.0, "error": null}
+[BQ-PYTHON-SDK][INFO] - Submitted: Job ID: I9yk7p8ooQWES2zr, name: G3_4_pauli-path_threshold3e-05, device: pauli-path, run status: PENDING, created on: 2026-11-21 23:20:28 UTC, estimated runtime: 360000000 ms, allowed runtime: 360000000 ms, estimated cost: $25.00, num qubits: 36
+submitted q=4 job=I9yk7p8ooQWES2zr
+{"q": 4, "id": "MQW_G3_4", "value": -0.10847666892551414, "status": "COMPLETED", "job_id": "I9yk7p8ooQWES2zr", "wall": 2487.2, "run_time_ms": 2474802, "cost": 0.0, "error": null}
+[BQ-PYTHON-SDK][INFO] - Submitted: Job ID: IlpcL34CMljrKgm6, name: G3_5_pauli-path_threshold3e-05, device: pauli-path, run status: PENDING, created on: 2026-11-22 00:02:12 UTC, estimated runtime: 360000000 ms, allowed runtime: 360000000 ms, estimated cost: $25.00, num qubits: 36
+submitted q=5 job=IlpcL34CMljrKgm6
+{"q": 5, "id": "MQW_G3_5", "value": 0.06374587314381629, "status": "COMPLETED", "job_id": "IlpcL34CMljrKgm6", "wall": 2110.6, "run_time_ms": 2069902, "cost": 0.0, "error": null}
+[BQ-PYTHON-SDK][INFO] - Submitted: Job ID: U173jnUp6llR3CiJ, name: G3_6_pauli-path_threshold3e-05, device: pauli-path, run status: RUNNING, created on: 2026-11-22 00:37:41 UTC, estimated runtime: 360000000 ms, allowed runtime: 360000000 ms, estimated cost: $25.00, num qubits: 36
+submitted q=6 job=U173jnUp6llR3CiJ
+{"q": 6, "id": "MQW_G3_6", "value": 0.013027744570296507, "status": "COMPLETED", "job_id": "U173jnUp6llR3CiJ", "wall": 2218.4, "run_time_ms": 2210808, "cost": 0.0, "error": null}
+[BQ-PYTHON-SDK][INFO] - Submitted: Job ID: r85o3TGP4vc4Lbvm, name: G3_7_pauli-path_threshold3e-05, device: pauli-path, run status: RUNNING, created on: 2026-11-22 01:14:58 UTC, estimated runtime: 360000000 ms, allowed runtime: 360000000 ms, estimated cost: $25.00, num qubits: 36
+submitted q=7 job=r85o3TGP4vc4Lbvm
+{"q": 7, "id": "MQW_G3_7", "value": -0.036677552796983676, "status": "COMPLETED", "job_id": "r85o3TGP4vc4Lbvm", "wall": 2265.5, "run_time_ms": 2254311, "cost": 0.0, "error": null}
+[BQ-PYTHON-SDK][INFO] - Submitted: Job ID: gCEbwB8ImoAbOdaN, name: G3_8_pauli-path_threshold3e-05, device: pauli-path, run status: RUNNING, created on: 2026-11-22 01:53:04 UTC, estimated runtime: 360000000 ms, allowed runtime: 360000000 ms, estimated cost: $25.00, num qubits: 36
+submitted q=8 job=gCEbwB8ImoAbOdaN

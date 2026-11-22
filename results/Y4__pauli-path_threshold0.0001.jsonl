@@ -1,0 +1,19 @@
+{"q": 0, "id": "MQW_Y4_0", "value": 0.01563609837012699, "status": "COMPLETED", "job_id": "HGI0mpfrLGLBdxz7", "wall": 175.2, "run_time_ms": 167929, "cost": 0.0, "error": null}
+{"q": 1, "id": "MQW_Y4_1", "value": -0.0135781757745918, "status": "COMPLETED", "job_id": "3Z2UTXLWuxfnTknk", "wall": 175.0, "run_time_ms": 168641, "cost": 0.0, "error": null}
+{"q": 2, "id": "MQW_Y4_2", "value": -0.00012341680513068884, "status": "COMPLETED", "job_id": "FKQS4vUShwXv9SUg", "wall": 164.9, "run_time_ms": 159315, "cost": 0.0, "error": null}
+{"q": 3, "id": "MQW_Y4_3", "value": -0.0018366446682183191, "status": "COMPLETED", "job_id": "VW3nsm2XcT2yI20h", "wall": 175.3, "run_time_ms": 138821, "cost": 0.0, "error": null}
+{"q": 4, "id": "MQW_Y4_4", "value": -0.15111073560414648, "status": "COMPLETED", "job_id": "bQJJNdkwRzAqDgA4", "wall": 103.2, "run_time_ms": 94840, "cost": 0.0, "error": null}
+{"q": 5, "id": "MQW_Y4_5", "value": -0.09537841499354417, "status": "COMPLETED", "job_id": "4JV7hNgHnoX2vtUT", "wall": 144.3, "run_time_ms": 136544, "cost": 0.0, "error": null}
+{"q": 6, "id": "MQW_Y4_6", "value": 0.00021245919380339035, "status": "COMPLETED", "job_id": "bzcjPdpt1QTzkDUM", "wall": 154.6, "run_time_ms": 151673, "cost": 0.0, "error": null}
+{"q": 7, "id": "MQW_Y4_7", "value": -0.01212259904275268, "status": "COMPLETED", "job_id": "LZwjODrF7xdSSOAb", "wall": 165.5, "run_time_ms": 158794, "cost": 0.0, "error": null}
+{"q": 8, "id": "MQW_Y4_8", "value": -0.01820614293008266, "status": "COMPLETED", "job_id": "pOog16lLHIevIa9Y", "wall": 164.9, "run_time_ms": 160222, "cost": 0.0, "error": null}
+{"q": 9, "id": "MQW_Y4_9", "value": -0.018646642454385347, "status": "COMPLETED", "job_id": "ha0Lpi2qvXpW7Wkv", "wall": 124.3, "run_time_ms": 118233, "cost": 0.0, "error": null}
+{"q": 10, "id": "MQW_Y4_10", "value": -0.01942548770943676, "status": "COMPLETED", "job_id": "uEAK2cjQnuJO2ytz", "wall": 164.8, "run_time_ms": 163431, "cost": 0.0, "error": null}
+{"q": 11, "id": "MQW_Y4_11", "value": -0.04197303069604147, "status": "COMPLETED", "job_id": "21rNs2jCnEjdB6fG", "wall": 175.9, "run_time_ms": 170299, "cost": 0.0, "error": null}
+{"q": 12, "id": "MQW_Y4_12", "value": -0.006638541859582971, "status": "COMPLETED", "job_id": "Du6rlTIg3hHHVvia", "wall": 145.7, "run_time_ms": 144173, "cost": 0.0, "error": null}
+{"q": 13, "id": "MQW_Y4_13", "value": 0.019450037826836596, "status": "COMPLETED", "job_id": "5VHBj8DwyC8EdX0C", "wall": 155.4, "run_time_ms": 146345, "cost": 0.0, "error": null}
+{"q": 14, "id": "MQW_Y4_14", "value": -0.014385287973922094, "status": "COMPLETED", "job_id": "oadBIUYYFSU60OMZ", "wall": 82.4, "run_time_ms": 76572, "cost": 0.0, "error": null}
+{"q": 15, "id": "MQW_Y4_15", "value": 0.06733757413706273, "status": "COMPLETED", "job_id": "PwkdMoIR9IUWY6lW", "wall": 93.7, "run_time_ms": 83996, "cost": 0.0, "error": null}
+{"q": 16, "id": "MQW_Y4_16", "value": -0.0014052693032164713, "status": "COMPLETED", "job_id": "hjxHPa7pyHoH2mHv", "wall": 144.2, "run_time_ms": 143016, "cost": 0.0, "error": null}
+{"q": 17, "id": "MQW_Y4_17", "value": -0.016700006224033406, "status": "COMPLETED", "job_id": "6q8jSqiTXZs6CzFE", "wall": 113.3, "run_time_ms": 104720, "cost": 0.0, "error": null}
+{"q": 18, "id": null, "value": -0.013348406386050204, "status": "COMPLETED", "job_id": "0NAUFwRRRqbfZTNC", "run_time_ms": 116368}

@@ -1,0 +1,6 @@
+{"q": 0, "id": "MQW_P3_0", "value": -0.009008794283120165, "status": "COMPLETED", "job_id": "CQqzYSMMWTmCaVaw", "wall": 370.6, "run_time_ms": 360279, "cost": 0.0, "error": null}
+{"q": 1, "id": "MQW_P3_1", "value": 0.002074641873138789, "status": "COMPLETED", "job_id": "2QzyegDqjLrqE7Yi", "wall": 726.1, "run_time_ms": 724762, "cost": 0.0, "error": null}
+{"q": 2, "id": "MQW_P3_2", "value": 0.0030790419120015735, "status": "COMPLETED", "job_id": "ilJpwbmDdSpGefHx", "wall": 803.5, "run_time_ms": 792686, "cost": 0.0, "error": null}
+{"q": 3, "id": "MQW_P3_3", "value": 0.000604221164138021, "status": "COMPLETED", "job_id": "pt3Jb68lB2587VDA", "wall": 798.8, "run_time_ms": 791009, "cost": 0.0, "error": null}
+{"q": 4, "id": "MQW_P3_4", "value": 3.2775718921881575e-17, "status": "COMPLETED", "job_id": "sPoZZn6Efa3P2jx2", "wall": 665.8, "run_time_ms": 612087, "cost": 0.0, "error": null}
+{"q": 5, "id": "MQW_P3_5", "value": -1.129240026718305e-16, "status": "COMPLETED", "job_id": "Xte2IgwxB07qeO4k", "wall": 621.4, "run_time_ms": 613830, "cost": 0.0, "error": null}

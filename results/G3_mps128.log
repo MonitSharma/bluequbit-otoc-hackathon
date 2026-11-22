@@ -1,0 +1,12 @@
+[BQ-PYTHON-SDK][WARNING] - Beta version 0.19.1b1 of BlueQubit Python SDK is being used.
+G3 mps.cpu {'mps_bond_dimension': 128} -> /Users/monitsharma/code_projects/otoc/results/G3__mps.cpu_dimension128.jsonl; todo [3, 8, 29]
+[BQ-PYTHON-SDK][INFO] - Submitted: Job ID: ek9TABapmsrMsVXz, name: G3_3_mps.cpu_dimension128, device: mps.cpu, run status: RUNNING, created on: 2026-11-22 03:01:52 UTC, estimated runtime: 3222200 ms, allowed runtime: 7944400 ms, estimated cost: $1.35, num qubits: 36, shots: 1024
+submitted q=3 job=ek9TABapmsrMsVXz
+[BQ-PYTHON-SDK][INFO] - Submitted: Job ID: 5rCXTbdPcAar6Cvp, name: G3_8_mps.cpu_dimension128, device: mps.cpu, run status: RUNNING, created on: 2026-11-22 03:01:56 UTC, estimated runtime: 3222200 ms, allowed runtime: 7944400 ms, estimated cost: $1.35, num qubits: 36, shots: 1024
+submitted q=8 job=5rCXTbdPcAar6Cvp
+[BQ-PYTHON-SDK][INFO] - Submitted: Job ID: 7Qgwjvwgxklv8bZI, name: G3_29_mps.cpu_dimension128, device: mps.cpu, run status: RUNNING, created on: 2026-11-22 03:01:59 UTC, estimated runtime: 3222200 ms, allowed runtime: 7944400 ms, estimated cost: $1.35, num qubits: 36, shots: 1024
+submitted q=29 job=7Qgwjvwgxklv8bZI
+{"q": 8, "id": "MQW_G3_8", "value": 0.7706603467586277, "status": "COMPLETED", "job_id": "5rCXTbdPcAar6Cvp", "wall": 675.3, "run_time_ms": 666148, "cost": 0.0, "error": null}
+{"q": 3, "id": "MQW_G3_3", "value": 0.9158615185912237, "status": "COMPLETED", "job_id": "ek9TABapmsrMsVXz", "wall": 753.7, "run_time_ms": 752745, "cost": 0.0, "error": null}
+{"q": 29, "id": "MQW_G3_29", "value": 0.6883195988320836, "status": "COMPLETED", "job_id": "7Qgwjvwgxklv8bZI", "wall": 849.7, "run_time_ms": 838795, "cost": 0.0, "error": null}
+ALL DONE

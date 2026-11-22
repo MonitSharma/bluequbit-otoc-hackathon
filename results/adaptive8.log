@@ -1,0 +1,74 @@
+[BQ-PYTHON-SDK][WARNING] - Beta version 0.19.1b1 of BlueQubit Python SDK is being used.
+G4 [5e-05, 0.0001] /Users/monitsharma/code_projects/otoc/results/G4__gpu_5e-5_1e-4_tl3.jsonl
+[BQ-PYTHON-SDK][INFO] - Submitted: Job ID: 14udgu0JulOefoZ8, name: G4_1_gpu5e-05, device: pauli-path.gpu, run status: RUNNING, created on: 2026-11-22 06:52:12 UTC, estimated runtime: 100 ms, allowed runtime: 1260000 ms, estimated cost: $0.67, num qubits: 38
+{"q": 1, "value": -0.03582116803662917, "thr": 5e-05, "status": "COMPLETED", "wall": 64.4, "cost": 0.2, "job_id": "14udgu0JulOefoZ8"}
+[BQ-PYTHON-SDK][INFO] - Submitted: Job ID: 33IyHX4awp0Co1tZ, name: G4_2_gpu5e-05, device: pauli-path.gpu, run status: RUNNING, created on: 2026-11-22 06:53:19 UTC, estimated runtime: 100 ms, allowed runtime: 1260000 ms, estimated cost: $0.67, num qubits: 38
+{"q": 2, "value": 0.0021065116553092202, "thr": 5e-05, "status": "COMPLETED", "wall": 69.8, "cost": 0.2, "job_id": "33IyHX4awp0Co1tZ"}
+[BQ-PYTHON-SDK][INFO] - Submitted: Job ID: 0dbV73B641NWfNq2, name: G4_3_gpu5e-05, device: pauli-path.gpu, run status: RUNNING, created on: 2026-11-22 06:54:30 UTC, estimated runtime: 100 ms, allowed runtime: 1260000 ms, estimated cost: $0.67, num qubits: 38
+{"q": 3, "value": -0.0007538759191969876, "thr": 5e-05, "status": "COMPLETED", "wall": 49.2, "cost": 0.2, "job_id": "0dbV73B641NWfNq2"}
+[BQ-PYTHON-SDK][INFO] - Submitted: Job ID: Lrl3ajCZ1gZ9ac5J, name: G4_4_gpu5e-05, device: pauli-path.gpu, run status: RUNNING, created on: 2026-11-22 06:55:16 UTC, estimated runtime: 100 ms, allowed runtime: 1260000 ms, estimated cost: $0.67, num qubits: 38
+{"q": 4, "value": 0.0027764694366833134, "thr": 5e-05, "status": "COMPLETED", "wall": 67.7, "cost": 0.2, "job_id": "Lrl3ajCZ1gZ9ac5J"}
+[BQ-PYTHON-SDK][INFO] - Submitted: Job ID: Pr2oBXacWGO9hUSe, name: G4_5_gpu5e-05, device: pauli-path.gpu, run status: RUNNING, created on: 2026-11-22 06:56:23 UTC, estimated runtime: 100 ms, allowed runtime: 1260000 ms, estimated cost: $0.67, num qubits: 38
+{"q": 5, "value": -0.00164630386588497, "thr": 5e-05, "status": "COMPLETED", "wall": 67.6, "cost": 0.2, "job_id": "Pr2oBXacWGO9hUSe"}
+[BQ-PYTHON-SDK][INFO] - Submitted: Job ID: nKEwoPDIX7yZHLCx, name: G4_6_gpu5e-05, device: pauli-path.gpu, run status: RUNNING, created on: 2026-11-22 06:57:34 UTC, estimated runtime: 100 ms, allowed runtime: 1260000 ms, estimated cost: $0.67, num qubits: 38
+{"q": 6, "value": -0.0006642940012065428, "thr": 5e-05, "status": "COMPLETED", "wall": 69.8, "cost": 0.2, "job_id": "nKEwoPDIX7yZHLCx"}
+[BQ-PYTHON-SDK][INFO] - Submitted: Job ID: k7imcC4ImxmMUUiJ, name: G4_7_gpu5e-05, device: pauli-path.gpu, run status: RUNNING, created on: 2026-11-22 06:58:45 UTC, estimated runtime: 100 ms, allowed runtime: 1260000 ms, estimated cost: $0.67, num qubits: 38
+{"q": 7, "value": -0.04468814917319453, "thr": 5e-05, "status": "COMPLETED", "wall": 71.6, "cost": 0.2, "job_id": "k7imcC4ImxmMUUiJ"}
+[BQ-PYTHON-SDK][INFO] - Submitted: Job ID: jrjigIXtA8L1Dssg, name: G4_8_gpu5e-05, device: pauli-path.gpu, run status: RUNNING, created on: 2026-11-22 06:59:56 UTC, estimated runtime: 100 ms, allowed runtime: 1260000 ms, estimated cost: $0.67, num qubits: 38
+{"q": 8, "value": -0.043011587062933454, "thr": 5e-05, "status": "COMPLETED", "wall": 74.0, "cost": 0.2, "job_id": "jrjigIXtA8L1Dssg"}
+[BQ-PYTHON-SDK][INFO] - Submitted: Job ID: PofH7Z2nlyUya0W8, name: G4_9_gpu5e-05, device: pauli-path.gpu, run status: RUNNING, created on: 2026-11-22 07:01:06 UTC, estimated runtime: 100 ms, allowed runtime: 1260000 ms, estimated cost: $0.67, num qubits: 38
+{"q": 9, "value": 0.0038808374853188175, "thr": 5e-05, "status": "COMPLETED", "wall": 68.4, "cost": 0.2, "job_id": "PofH7Z2nlyUya0W8"}
+[BQ-PYTHON-SDK][INFO] - Submitted: Job ID: jPbA3HMh3j7DVxBN, name: G4_10_gpu5e-05, device: pauli-path.gpu, run status: RUNNING, created on: 2026-11-22 07:02:19 UTC, estimated runtime: 100 ms, allowed runtime: 1260000 ms, estimated cost: $0.67, num qubits: 38
+{"q": 10, "value": -0.040669802277789185, "thr": 5e-05, "status": "COMPLETED", "wall": 70.4, "cost": 0.2, "job_id": "jPbA3HMh3j7DVxBN"}
+[BQ-PYTHON-SDK][INFO] - Submitted: Job ID: 6ZvtKk38wNg9zWdU, name: G4_11_gpu5e-05, device: pauli-path.gpu, run status: PENDING, created on: 2026-11-22 07:03:30 UTC, estimated runtime: 100 ms, allowed runtime: 1260000 ms, estimated cost: $0.67, num qubits: 38
+[BQ-PYTHON-SDK][INFO] - Status changed: Job ID: 6ZvtKk38wNg9zWdU. From PENDING to RUNNING.
+{"q": 11, "value": -0.005533090436118175, "thr": 5e-05, "status": "COMPLETED", "wall": 149.3, "cost": 0.2, "job_id": "6ZvtKk38wNg9zWdU"}
+[BQ-PYTHON-SDK][INFO] - Submitted: Job ID: ixjzFmxaXovSjcVu, name: G4_12_gpu5e-05, device: pauli-path.gpu, run status: RUNNING, created on: 2026-11-22 07:05:59 UTC, estimated runtime: 100 ms, allowed runtime: 1260000 ms, estimated cost: $0.67, num qubits: 38
+{"q": 12, "value": -0.00038563830483941526, "thr": 5e-05, "status": "COMPLETED", "wall": 133.7, "cost": 0.2, "job_id": "ixjzFmxaXovSjcVu"}
+[BQ-PYTHON-SDK][INFO] - Submitted: Job ID: J1vSV78oXISpzVUs, name: G4_13_gpu5e-05, device: pauli-path.gpu, run status: RUNNING, created on: 2026-11-22 07:08:13 UTC, estimated runtime: 100 ms, allowed runtime: 1260000 ms, estimated cost: $0.67, num qubits: 38
+{"q": 13, "value": -0.0003306269798130359, "thr": 5e-05, "status": "COMPLETED", "wall": 67.8, "cost": 0.2, "job_id": "J1vSV78oXISpzVUs"}
+[BQ-PYTHON-SDK][INFO] - Submitted: Job ID: SLQ3gVBEF5rBnb7l, name: G4_14_gpu5e-05, device: pauli-path.gpu, run status: RUNNING, created on: 2026-11-22 07:09:23 UTC, estimated runtime: 100 ms, allowed runtime: 1260000 ms, estimated cost: $0.67, num qubits: 38
+{"q": 14, "value": -0.0019569399810941547, "thr": 5e-05, "status": "COMPLETED", "wall": 48.2, "cost": 0.2, "job_id": "SLQ3gVBEF5rBnb7l"}
+[BQ-PYTHON-SDK][INFO] - Submitted: Job ID: a7FAkn01NXr7S6WY, name: G4_15_gpu5e-05, device: pauli-path.gpu, run status: RUNNING, created on: 2026-11-22 07:10:10 UTC, estimated runtime: 100 ms, allowed runtime: 1260000 ms, estimated cost: $0.67, num qubits: 38
+{"q": 15, "value": -0.004437351929082428, "thr": 5e-05, "status": "COMPLETED", "wall": 49.6, "cost": 0.2, "job_id": "a7FAkn01NXr7S6WY"}
+[BQ-PYTHON-SDK][INFO] - Submitted: Job ID: FyWdoo2mMTEwf8Au, name: G4_16_gpu5e-05, device: pauli-path.gpu, run status: RUNNING, created on: 2026-11-22 07:10:54 UTC, estimated runtime: 100 ms, allowed runtime: 1260000 ms, estimated cost: $0.67, num qubits: 38
+{"q": 16, "value": -0.04271903493926168, "thr": 5e-05, "status": "COMPLETED", "wall": 45.5, "cost": 0.2, "job_id": "FyWdoo2mMTEwf8Au"}
+[BQ-PYTHON-SDK][INFO] - Submitted: Job ID: 12uInQ2EZOcrpD4n, name: G4_17_gpu5e-05, device: pauli-path.gpu, run status: RUNNING, created on: 2026-11-22 07:11:41 UTC, estimated runtime: 100 ms, allowed runtime: 1260000 ms, estimated cost: $0.67, num qubits: 38
+{"q": 17, "value": -0.004676885928771484, "thr": 5e-05, "status": "COMPLETED", "wall": 45.3, "cost": 0.2, "job_id": "12uInQ2EZOcrpD4n"}
+[BQ-PYTHON-SDK][INFO] - Submitted: Job ID: NKkQjr6gbt0Oxhox, name: G4_18_gpu5e-05, device: pauli-path.gpu, run status: RUNNING, created on: 2026-11-22 07:12:24 UTC, estimated runtime: 100 ms, allowed runtime: 1260000 ms, estimated cost: $0.67, num qubits: 38
+{"q": 18, "value": -0.0006465106716788249, "thr": 5e-05, "status": "COMPLETED", "wall": 43.3, "cost": 0.2, "job_id": "NKkQjr6gbt0Oxhox"}
+[BQ-PYTHON-SDK][INFO] - Submitted: Job ID: WHXGVK3LyMLK7Fi1, name: G4_19_gpu5e-05, device: pauli-path.gpu, run status: RUNNING, created on: 2026-11-22 07:13:06 UTC, estimated runtime: 100 ms, allowed runtime: 1260000 ms, estimated cost: $0.67, num qubits: 38
+{"q": 19, "value": -0.03326447715382945, "thr": 5e-05, "status": "COMPLETED", "wall": 41.5, "cost": 0.2, "job_id": "WHXGVK3LyMLK7Fi1"}
+[BQ-PYTHON-SDK][INFO] - Submitted: Job ID: GGeV2aXXNejW1aCl, name: G4_20_gpu5e-05, device: pauli-path.gpu, run status: RUNNING, created on: 2026-11-22 07:13:57 UTC, estimated runtime: 100 ms, allowed runtime: 1260000 ms, estimated cost: $0.67, num qubits: 38
+{"q": 20, "value": -0.005781985755500957, "thr": 5e-05, "status": "COMPLETED", "wall": 50.4, "cost": 0.2, "job_id": "GGeV2aXXNejW1aCl"}
+[BQ-PYTHON-SDK][INFO] - Submitted: Job ID: 4YSsVJ3mmvrnnWi7, name: G4_21_gpu5e-05, device: pauli-path.gpu, run status: PENDING, created on: 2026-11-22 07:14:40 UTC, estimated runtime: 100 ms, allowed runtime: 1260000 ms, estimated cost: $0.67, num qubits: 38
+{"q": 21, "value": -0.038597996208477085, "thr": 5e-05, "status": "COMPLETED", "wall": 40.6, "cost": 0.2, "job_id": "4YSsVJ3mmvrnnWi7"}
+[BQ-PYTHON-SDK][INFO] - Submitted: Job ID: kJHFvOtTwl1XPhfw, name: G4_22_gpu5e-05, device: pauli-path.gpu, run status: RUNNING, created on: 2026-11-22 07:15:24 UTC, estimated runtime: 100 ms, allowed runtime: 1260000 ms, estimated cost: $0.67, num qubits: 38
+{"q": 22, "value": -0.010408608365041275, "thr": 5e-05, "status": "COMPLETED", "wall": 67.4, "cost": 0.2, "job_id": "kJHFvOtTwl1XPhfw"}
+[BQ-PYTHON-SDK][INFO] - Submitted: Job ID: 9rw1vpq30UDy6IJL, name: G4_23_gpu5e-05, device: pauli-path.gpu, run status: RUNNING, created on: 2026-11-22 07:16:31 UTC, estimated runtime: 100 ms, allowed runtime: 1260000 ms, estimated cost: $0.67, num qubits: 38
+{"q": 23, "value": -0.011440331957157561, "thr": 5e-05, "status": "COMPLETED", "wall": 145.4, "cost": 0.2, "job_id": "9rw1vpq30UDy6IJL"}
+[BQ-PYTHON-SDK][INFO] - Submitted: Job ID: g9Xwa3EQZk4WHs7f, name: G4_24_gpu5e-05, device: pauli-path.gpu, run status: RUNNING, created on: 2026-11-22 07:18:55 UTC, estimated runtime: 100 ms, allowed runtime: 1260000 ms, estimated cost: $0.67, num qubits: 38
+{"q": 24, "value": -0.0021013999986041, "thr": 5e-05, "status": "COMPLETED", "wall": 69.4, "cost": 0.2, "job_id": "g9Xwa3EQZk4WHs7f"}
+[BQ-PYTHON-SDK][INFO] - Submitted: Job ID: PisDo1DK0rT0KQBV, name: G4_25_gpu5e-05, device: pauli-path.gpu, run status: RUNNING, created on: 2026-11-22 07:20:06 UTC, estimated runtime: 100 ms, allowed runtime: 1260000 ms, estimated cost: $0.67, num qubits: 38
+{"q": 25, "value": -0.01664258542016489, "thr": 5e-05, "status": "COMPLETED", "wall": 84.9, "cost": 0.2, "job_id": "PisDo1DK0rT0KQBV"}
+[BQ-PYTHON-SDK][INFO] - Submitted: Job ID: lyPkAXBNNveRnGRg, name: G4_26_gpu5e-05, device: pauli-path.gpu, run status: RUNNING, created on: 2026-11-22 07:21:32 UTC, estimated runtime: 100 ms, allowed runtime: 1260000 ms, estimated cost: $0.67, num qubits: 38
+{"q": 26, "value": -0.009729599781862856, "thr": 5e-05, "status": "COMPLETED", "wall": 72.8, "cost": 0.2, "job_id": "lyPkAXBNNveRnGRg"}
+[BQ-PYTHON-SDK][INFO] - Submitted: Job ID: c81AtYJzvbo98ZQc, name: G4_27_gpu5e-05, device: pauli-path.gpu, run status: RUNNING, created on: 2026-11-22 07:22:43 UTC, estimated runtime: 100 ms, allowed runtime: 1260000 ms, estimated cost: $0.67, num qubits: 38
+{"q": 27, "value": -0.013877306130534646, "thr": 5e-05, "status": "COMPLETED", "wall": 72.8, "cost": 0.2, "job_id": "c81AtYJzvbo98ZQc"}
+[BQ-PYTHON-SDK][INFO] - Submitted: Job ID: Amnx4FOMmX44QXgz, name: G4_28_gpu5e-05, device: pauli-path.gpu, run status: RUNNING, created on: 2026-11-22 07:23:58 UTC, estimated runtime: 100 ms, allowed runtime: 1260000 ms, estimated cost: $0.67, num qubits: 38
+{"q": 28, "value": 0.004719709120353941, "thr": 5e-05, "status": "COMPLETED", "wall": 73.0, "cost": 0.2, "job_id": "Amnx4FOMmX44QXgz"}
+[BQ-PYTHON-SDK][INFO] - Submitted: Job ID: 6CMgcEx5idjM4ZNo, name: G4_29_gpu5e-05, device: pauli-path.gpu, run status: RUNNING, created on: 2026-11-22 07:25:08 UTC, estimated runtime: 100 ms, allowed runtime: 1260000 ms, estimated cost: $0.67, num qubits: 38
+{"q": 29, "value": 6.542747897199424e-05, "thr": 5e-05, "status": "COMPLETED", "wall": 69.9, "cost": 0.2, "job_id": "6CMgcEx5idjM4ZNo"}
+[BQ-PYTHON-SDK][INFO] - Submitted: Job ID: QgVhdR7OWOWbQHqq, name: G4_30_gpu5e-05, device: pauli-path.gpu, run status: RUNNING, created on: 2026-11-22 07:26:18 UTC, estimated runtime: 100 ms, allowed runtime: 1260000 ms, estimated cost: $0.67, num qubits: 38
+{"q": 30, "value": -0.0007955013707652308, "thr": 5e-05, "status": "COMPLETED", "wall": 69.7, "cost": 0.2, "job_id": "QgVhdR7OWOWbQHqq"}
+[BQ-PYTHON-SDK][INFO] - Submitted: Job ID: YdvjtB8RylqZHJrr, name: G4_31_gpu5e-05, device: pauli-path.gpu, run status: RUNNING, created on: 2026-11-22 07:27:30 UTC, estimated runtime: 100 ms, allowed runtime: 1260000 ms, estimated cost: $0.67, num qubits: 38
+{"q": 31, "value": -0.008863090063420101, "thr": 5e-05, "status": "COMPLETED", "wall": 71.8, "cost": 0.2, "job_id": "YdvjtB8RylqZHJrr"}
+[BQ-PYTHON-SDK][INFO] - Submitted: Job ID: VjMSdndAkZY1OeQQ, name: G4_32_gpu5e-05, device: pauli-path.gpu, run status: RUNNING, created on: 2026-11-22 07:28:44 UTC, estimated runtime: 100 ms, allowed runtime: 1260000 ms, estimated cost: $0.67, num qubits: 38
+{"q": 32, "value": -0.006318808338468888, "thr": 5e-05, "status": "COMPLETED", "wall": 74.5, "cost": 0.2, "job_id": "VjMSdndAkZY1OeQQ"}
+[BQ-PYTHON-SDK][INFO] - Submitted: Job ID: TsImbS58uD1ASuDQ, name: G4_33_gpu5e-05, device: pauli-path.gpu, run status: RUNNING, created on: 2026-11-22 07:29:53 UTC, estimated runtime: 100 ms, allowed runtime: 1260000 ms, estimated cost: $0.67, num qubits: 38
+{"q": 33, "value": 0.0020357721513032823, "thr": 5e-05, "status": "COMPLETED", "wall": 70.5, "cost": 0.2, "job_id": "TsImbS58uD1ASuDQ"}
+[BQ-PYTHON-SDK][INFO] - Submitted: Job ID: tOPP3Tqyg2bocALJ, name: G4_34_gpu5e-05, device: pauli-path.gpu, run status: RUNNING, created on: 2026-11-22 07:31:01 UTC, estimated runtime: 100 ms, allowed runtime: 1260000 ms, estimated cost: $0.67, num qubits: 38
+{"q": 34, "value": -0.04467387457276388, "thr": 5e-05, "status": "COMPLETED", "wall": 68.8, "cost": 0.2, "job_id": "tOPP3Tqyg2bocALJ"}
+[BQ-PYTHON-SDK][INFO] - Submitted: Job ID: sxaKzL2ozUWyKD1u, name: G4_35_gpu5e-05, device: pauli-path.gpu, run status: RUNNING, created on: 2026-11-22 07:32:11 UTC, estimated runtime: 100 ms, allowed runtime: 1260000 ms, estimated cost: $0.67, num qubits: 38
+{"q": 35, "value": 0.00012113777709854, "thr": 5e-05, "status": "COMPLETED", "wall": 85.0, "cost": 0.2, "job_id": "sxaKzL2ozUWyKD1u"}
+ALL DONE

@@ -1,0 +1,93 @@
+[BQ-PYTHON-SDK][WARNING] - Beta version 0.19.1b1 of BlueQubit Python SDK is being used.
+P4 cpu {} -> /Users/monitsharma/code_projects/otoc/results/P4__cpu.jsonl; todo [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29]
+[BQ-PYTHON-SDK][INFO] - Submitted: Job ID: pgcJat23xxqf1s4l, name: P4_0_cpu, device: cpu, run status: RUNNING, created on: 2026-11-22 04:17:26 UTC, estimated runtime: 81593 ms, allowed runtime: 223186 ms, estimated cost: $0.00, num qubits: 30
+submitted q=0 job=pgcJat23xxqf1s4l
+[BQ-PYTHON-SDK][INFO] - Submitted: Job ID: UDxQ9ue4N0uW1CpG, name: P4_1_cpu, device: cpu, run status: RUNNING, created on: 2026-11-22 04:17:28 UTC, estimated runtime: 97406 ms, allowed runtime: 254812 ms, estimated cost: $0.00, num qubits: 30
+submitted q=1 job=UDxQ9ue4N0uW1CpG
+{"q": 0, "id": "MQW_P4_0", "value": -0.0021029022843522117, "status": "COMPLETED", "job_id": "pgcJat23xxqf1s4l", "wall": 44.1, "run_time_ms": 33235, "cost": 0.0, "error": null}
+{"q": 1, "id": "MQW_P4_1", "value": 0.012207522266471751, "status": "COMPLETED", "job_id": "UDxQ9ue4N0uW1CpG", "wall": 42.5, "run_time_ms": 36207, "cost": 0.0, "error": null}
+[BQ-PYTHON-SDK][INFO] - Submitted: Job ID: 1MOMFWCmBsLyWPiW, name: P4_2_cpu, device: cpu, run status: RUNNING, created on: 2026-11-22 04:18:12 UTC, estimated runtime: 88093 ms, allowed runtime: 236186 ms, estimated cost: $0.00, num qubits: 30
+submitted q=2 job=1MOMFWCmBsLyWPiW
+[BQ-PYTHON-SDK][INFO] - Submitted: Job ID: vQSfxebcLExacKEE, name: P4_3_cpu, device: cpu, run status: RUNNING, created on: 2026-11-22 04:18:15 UTC, estimated runtime: 88093 ms, allowed runtime: 236186 ms, estimated cost: $0.00, num qubits: 30
+submitted q=3 job=vQSfxebcLExacKEE
+{"q": 3, "id": "MQW_P4_3", "value": 1.6018046527693202e-05, "status": "COMPLETED", "job_id": "vQSfxebcLExacKEE", "wall": 31.9, "run_time_ms": 30472, "cost": 0.0, "error": null}
+[BQ-PYTHON-SDK][INFO] - Submitted: Job ID: HgyKeCX4RFJp7rfn, name: P4_4_cpu, device: cpu, run status: RUNNING, created on: 2026-11-22 04:18:50 UTC, estimated runtime: 97406 ms, allowed runtime: 254812 ms, estimated cost: $0.00, num qubits: 30
+submitted q=4 job=HgyKeCX4RFJp7rfn
+{"q": 2, "id": "MQW_P4_2", "value": 0.0018724310924375697, "status": "COMPLETED", "job_id": "1MOMFWCmBsLyWPiW", "wall": 47.5, "run_time_ms": 33819, "cost": 0.0, "error": null}
+[BQ-PYTHON-SDK][INFO] - Submitted: Job ID: aGpABY5PvqD8Covo, name: P4_5_cpu, device: cpu, run status: RUNNING, created on: 2026-11-22 04:19:02 UTC, estimated runtime: 97406 ms, allowed runtime: 254812 ms, estimated cost: $0.00, num qubits: 30
+submitted q=5 job=aGpABY5PvqD8Covo
+{"q": 4, "id": "MQW_P4_4", "value": -0.00302882221170531, "status": "COMPLETED", "job_id": "HgyKeCX4RFJp7rfn", "wall": 43.9, "run_time_ms": 32901, "cost": 0.0, "error": null}
+[BQ-PYTHON-SDK][INFO] - Submitted: Job ID: 6SMiG2vAXCXCogZ0, name: P4_6_cpu, device: cpu, run status: RUNNING, created on: 2026-11-22 04:19:36 UTC, estimated runtime: 97406 ms, allowed runtime: 254812 ms, estimated cost: $0.00, num qubits: 30
+submitted q=6 job=6SMiG2vAXCXCogZ0
+{"q": 5, "id": "MQW_P4_5", "value": -0.002323854540852093, "status": "COMPLETED", "job_id": "aGpABY5PvqD8Covo", "wall": 44.2, "run_time_ms": 33070, "cost": 0.0, "error": null}
+[BQ-PYTHON-SDK][INFO] - Submitted: Job ID: PIBrhwUO1pHK5uPZ, name: P4_7_cpu, device: cpu, run status: RUNNING, created on: 2026-11-22 04:19:48 UTC, estimated runtime: 97406 ms, allowed runtime: 254812 ms, estimated cost: $0.00, num qubits: 30
+submitted q=7 job=PIBrhwUO1pHK5uPZ
+{"q": 6, "id": "MQW_P4_6", "value": -0.008543638144538018, "status": "COMPLETED", "job_id": "6SMiG2vAXCXCogZ0", "wall": 33.5, "run_time_ms": 32947, "cost": 0.0, "error": null}
+[BQ-PYTHON-SDK][INFO] - Submitted: Job ID: mgjPVTvEBmsC70Xz, name: P4_8_cpu, device: cpu, run status: RUNNING, created on: 2026-11-22 04:20:12 UTC, estimated runtime: 88093 ms, allowed runtime: 236186 ms, estimated cost: $0.00, num qubits: 30
+submitted q=8 job=mgjPVTvEBmsC70Xz
+{"q": 7, "id": "MQW_P4_7", "value": -0.0019364337383369061, "status": "COMPLETED", "job_id": "PIBrhwUO1pHK5uPZ", "wall": 44.4, "run_time_ms": 42637, "cost": 0.0, "error": null}
+[BQ-PYTHON-SDK][INFO] - Submitted: Job ID: 0cV2jfEnf04RhmIl, name: P4_9_cpu, device: cpu, run status: RUNNING, created on: 2026-11-22 04:20:35 UTC, estimated runtime: 88093 ms, allowed runtime: 236186 ms, estimated cost: $0.00, num qubits: 30
+submitted q=9 job=0cV2jfEnf04RhmIl
+{"q": 8, "id": "MQW_P4_8", "value": -0.005175806102306905, "status": "COMPLETED", "job_id": "mgjPVTvEBmsC70Xz", "wall": 44.1, "run_time_ms": 36063, "cost": 0.0, "error": null}
+[BQ-PYTHON-SDK][INFO] - Submitted: Job ID: Iepr0gMrJFUZhbiY, name: P4_10_cpu, device: cpu, run status: RUNNING, created on: 2026-11-22 04:20:58 UTC, estimated runtime: 81593 ms, allowed runtime: 223186 ms, estimated cost: $0.00, num qubits: 30
+submitted q=10 job=Iepr0gMrJFUZhbiY
+{"q": 9, "id": "MQW_P4_9", "value": 0.001034331901120175, "status": "COMPLETED", "job_id": "0cV2jfEnf04RhmIl", "wall": 34.0, "run_time_ms": 26032, "cost": 0.0, "error": null}
+[BQ-PYTHON-SDK][INFO] - Submitted: Job ID: N03olUUsYLUeGtol, name: P4_11_cpu, device: cpu, run status: RUNNING, created on: 2026-11-22 04:21:12 UTC, estimated runtime: 81593 ms, allowed runtime: 223186 ms, estimated cost: $0.00, num qubits: 30
+submitted q=11 job=N03olUUsYLUeGtol
+{"q": 10, "id": "MQW_P4_10", "value": 0.012087841917776098, "status": "COMPLETED", "job_id": "Iepr0gMrJFUZhbiY", "wall": 34.2, "run_time_ms": 33736, "cost": 0.0, "error": null}
+[BQ-PYTHON-SDK][INFO] - Submitted: Job ID: Cec03ieIMKQSGMSw, name: P4_12_cpu, device: cpu, run status: RUNNING, created on: 2026-11-22 04:21:35 UTC, estimated runtime: 97406 ms, allowed runtime: 254812 ms, estimated cost: $0.00, num qubits: 30
+submitted q=12 job=Cec03ieIMKQSGMSw
+{"q": 11, "id": "MQW_P4_11", "value": 0.0003110661644463999, "status": "COMPLETED", "job_id": "N03olUUsYLUeGtol", "wall": 33.6, "run_time_ms": 31776, "cost": 0.0, "error": null}
+[BQ-PYTHON-SDK][INFO] - Submitted: Job ID: BnOdeEV2DPnW28gS, name: P4_13_cpu, device: cpu, run status: RUNNING, created on: 2026-11-22 04:21:48 UTC, estimated runtime: 97406 ms, allowed runtime: 254812 ms, estimated cost: $0.00, num qubits: 30
+submitted q=13 job=BnOdeEV2DPnW28gS
+{"q": 12, "id": "MQW_P4_12", "value": -0.0055198510768558395, "status": "COMPLETED", "job_id": "Cec03ieIMKQSGMSw", "wall": 44.1, "run_time_ms": 33669, "cost": 0.0, "error": null}
+[BQ-PYTHON-SDK][INFO] - Submitted: Job ID: 6pE6eX22CEC6PDDJ, name: P4_14_cpu, device: cpu, run status: RUNNING, created on: 2026-11-22 04:22:22 UTC, estimated runtime: 97406 ms, allowed runtime: 254812 ms, estimated cost: $0.00, num qubits: 30
+submitted q=14 job=6pE6eX22CEC6PDDJ
+{"q": 13, "id": "MQW_P4_13", "value": -0.03574618795279159, "status": "COMPLETED", "job_id": "BnOdeEV2DPnW28gS", "wall": 55.2, "run_time_ms": 44522, "cost": 0.0, "error": null}
+[BQ-PYTHON-SDK][INFO] - Submitted: Job ID: ua4osvMZm3bftqyz, name: P4_15_cpu, device: cpu, run status: RUNNING, created on: 2026-11-22 04:22:45 UTC, estimated runtime: 97375 ms, allowed runtime: 254750 ms, estimated cost: $0.00, num qubits: 30
+submitted q=15 job=ua4osvMZm3bftqyz
+{"q": 14, "id": "MQW_P4_14", "value": -0.0021468789308159665, "status": "COMPLETED", "job_id": "6pE6eX22CEC6PDDJ", "wall": 33.8, "run_time_ms": 30326, "cost": 0.0, "error": null}
+[BQ-PYTHON-SDK][INFO] - Submitted: Job ID: nRs5MSg8dbyiC3rb, name: P4_16_cpu, device: cpu, run status: RUNNING, created on: 2026-11-22 04:22:57 UTC, estimated runtime: 84968 ms, allowed runtime: 229936 ms, estimated cost: $0.00, num qubits: 30
+submitted q=16 job=nRs5MSg8dbyiC3rb
+{"q": 15, "id": "MQW_P4_15", "value": -0.0072524998083213135, "status": "COMPLETED", "job_id": "ua4osvMZm3bftqyz", "wall": 54.4, "run_time_ms": 44473, "cost": 0.0, "error": null}
+{"q": 16, "id": "MQW_P4_16", "value": -0.0021936674647158694, "status": "COMPLETED", "job_id": "nRs5MSg8dbyiC3rb", "wall": 42.6, "run_time_ms": 36079, "cost": 0.0, "error": null}
+[BQ-PYTHON-SDK][INFO] - Submitted: Job ID: CBfht6XqCOs5DiqP, name: P4_17_cpu, device: cpu, run status: RUNNING, created on: 2026-11-22 04:23:43 UTC, estimated runtime: 84968 ms, allowed runtime: 229936 ms, estimated cost: $0.00, num qubits: 30
+submitted q=17 job=CBfht6XqCOs5DiqP
+[BQ-PYTHON-SDK][INFO] - Submitted: Job ID: NgNZCf5kOGtlx6sm, name: P4_18_cpu, device: cpu, run status: RUNNING, created on: 2026-11-22 04:23:44 UTC, estimated runtime: 84968 ms, allowed runtime: 229936 ms, estimated cost: $0.00, num qubits: 30
+submitted q=18 job=NgNZCf5kOGtlx6sm
+{"q": 17, "id": "MQW_P4_17", "value": -0.0011694886923472694, "status": "COMPLETED", "job_id": "CBfht6XqCOs5DiqP", "wall": 33.3, "run_time_ms": 31103, "cost": 0.0, "error": null}
+[BQ-PYTHON-SDK][INFO] - Submitted: Job ID: gBQmymGkjg64xEeG, name: P4_19_cpu, device: cpu, run status: RUNNING, created on: 2026-11-22 04:24:18 UTC, estimated runtime: 97406 ms, allowed runtime: 254812 ms, estimated cost: $0.00, num qubits: 30
+submitted q=19 job=gBQmymGkjg64xEeG
+{"q": 18, "id": "MQW_P4_18", "value": 0.0007421207763869335, "status": "COMPLETED", "job_id": "NgNZCf5kOGtlx6sm", "wall": 44.1, "run_time_ms": 34270, "cost": 0.0, "error": null}
+[BQ-PYTHON-SDK][INFO] - Submitted: Job ID: n09yM7R8JvGgcd5C, name: P4_20_cpu, device: cpu, run status: RUNNING, created on: 2026-11-22 04:24:31 UTC, estimated runtime: 92781 ms, allowed runtime: 245562 ms, estimated cost: $0.00, num qubits: 30
+submitted q=20 job=n09yM7R8JvGgcd5C
+{"q": 19, "id": "MQW_P4_19", "value": -0.004242819915040708, "status": "COMPLETED", "job_id": "gBQmymGkjg64xEeG", "wall": 44.5, "run_time_ms": 42461, "cost": 0.0, "error": null}
+{"q": 20, "id": "MQW_P4_20", "value": -0.002121202171920805, "status": "COMPLETED", "job_id": "n09yM7R8JvGgcd5C", "wall": 31.9, "run_time_ms": 26324, "cost": 0.0, "error": null}
+[BQ-PYTHON-SDK][INFO] - Submitted: Job ID: agrjIBi4BhsEw2XG, name: P4_21_cpu, device: cpu, run status: RUNNING, created on: 2026-11-22 04:25:06 UTC, estimated runtime: 97406 ms, allowed runtime: 254812 ms, estimated cost: $0.00, num qubits: 30
+submitted q=21 job=agrjIBi4BhsEw2XG
+[BQ-PYTHON-SDK][INFO] - Submitted: Job ID: Z3R9JgydT8V1Oe0I, name: P4_22_cpu, device: cpu, run status: RUNNING, created on: 2026-11-22 04:25:08 UTC, estimated runtime: 84968 ms, allowed runtime: 229936 ms, estimated cost: $0.00, num qubits: 30
+submitted q=22 job=Z3R9JgydT8V1Oe0I
+{"q": 21, "id": "MQW_P4_21", "value": -0.0011866876232154557, "status": "COMPLETED", "job_id": "agrjIBi4BhsEw2XG", "wall": 75.8, "run_time_ms": 44466, "cost": 0.0, "error": null}
+{"q": 22, "id": "MQW_P4_22", "value": -0.019558148673852308, "status": "COMPLETED", "job_id": "Z3R9JgydT8V1Oe0I", "wall": 74.3, "run_time_ms": 35499, "cost": 0.0, "error": null}
+[BQ-PYTHON-SDK][INFO] - Submitted: Job ID: 14qHqDcZBHCYYrpA, name: P4_23_cpu, device: cpu, run status: RUNNING, created on: 2026-11-22 04:26:24 UTC, estimated runtime: 84968 ms, allowed runtime: 229936 ms, estimated cost: $0.00, num qubits: 30
+submitted q=23 job=14qHqDcZBHCYYrpA
+[BQ-PYTHON-SDK][INFO] - Submitted: Job ID: NngKZ3eoOEt40dyM, name: P4_24_cpu, device: cpu, run status: RUNNING, created on: 2026-11-22 04:26:26 UTC, estimated runtime: 77656 ms, allowed runtime: 215312 ms, estimated cost: $0.00, num qubits: 30
+submitted q=24 job=NngKZ3eoOEt40dyM
+{"q": 24, "id": "MQW_P4_24", "value": -0.00012442674444768413, "status": "COMPLETED", "job_id": "NngKZ3eoOEt40dyM", "wall": 31.9, "run_time_ms": 27397, "cost": 0.0, "error": null}
+[BQ-PYTHON-SDK][INFO] - Submitted: Job ID: eZMngii2Cmpyigbx, name: P4_25_cpu, device: cpu, run status: RUNNING, created on: 2026-11-22 04:27:00 UTC, estimated runtime: 96843 ms, allowed runtime: 253686 ms, estimated cost: $0.00, num qubits: 30
+submitted q=25 job=eZMngii2Cmpyigbx
+{"q": 23, "id": "MQW_P4_23", "value": 0.006731140865957922, "status": "COMPLETED", "job_id": "14qHqDcZBHCYYrpA", "wall": 45.9, "run_time_ms": 35226, "cost": 0.0, "error": null}
+[BQ-PYTHON-SDK][INFO] - Submitted: Job ID: qCpJvSo9rLsJFgkG, name: P4_26_cpu, device: cpu, run status: RUNNING, created on: 2026-11-22 04:27:12 UTC, estimated runtime: 97406 ms, allowed runtime: 254812 ms, estimated cost: $0.00, num qubits: 30
+submitted q=26 job=qCpJvSo9rLsJFgkG
+{"q": 25, "id": "MQW_P4_25", "value": -0.05807443909912265, "status": "COMPLETED", "job_id": "eZMngii2Cmpyigbx", "wall": 33.7, "run_time_ms": 27745, "cost": 0.0, "error": null}
+[BQ-PYTHON-SDK][INFO] - Submitted: Job ID: 2K4cm6SdL7xO8hrR, name: P4_27_cpu, device: cpu, run status: RUNNING, created on: 2026-11-22 04:27:36 UTC, estimated runtime: 97406 ms, allowed runtime: 254812 ms, estimated cost: $0.00, num qubits: 30
+submitted q=27 job=2K4cm6SdL7xO8hrR
+{"q": 26, "id": "MQW_P4_26", "value": 0.0018480435793211704, "status": "COMPLETED", "job_id": "qCpJvSo9rLsJFgkG", "wall": 44.9, "run_time_ms": 37797, "cost": 0.0, "error": null}
+[BQ-PYTHON-SDK][INFO] - Submitted: Job ID: sryeZhTxn8mLz2RU, name: P4_28_cpu, device: cpu, run status: RUNNING, created on: 2026-11-22 04:28:00 UTC, estimated runtime: 96843 ms, allowed runtime: 253686 ms, estimated cost: $0.00, num qubits: 30
+submitted q=28 job=sryeZhTxn8mLz2RU
+{"q": 27, "id": "MQW_P4_27", "value": -0.0015504385035047111, "status": "COMPLETED", "job_id": "2K4cm6SdL7xO8hrR", "wall": 34.1, "run_time_ms": 28633, "cost": 0.0, "error": null}
+[BQ-PYTHON-SDK][INFO] - Submitted: Job ID: j2hZv7bD7GIyKB61, name: P4_29_cpu, device: cpu, run status: RUNNING, created on: 2026-11-22 04:28:12 UTC, estimated runtime: 77625 ms, allowed runtime: 215250 ms, estimated cost: $0.00, num qubits: 30
+submitted q=29 job=j2hZv7bD7GIyKB61
+{"q": 28, "id": "MQW_P4_28", "value": -0.00561284333765324, "status": "COMPLETED", "job_id": "sryeZhTxn8mLz2RU", "wall": 45.3, "run_time_ms": 38141, "cost": 0.0, "error": null}
+{"q": 29, "id": "MQW_P4_29", "value": 0.0003877396232581312, "status": "COMPLETED", "job_id": "j2hZv7bD7GIyKB61", "wall": 33.4, "run_time_ms": 24943, "cost": 0.0, "error": null}
+ALL DONE

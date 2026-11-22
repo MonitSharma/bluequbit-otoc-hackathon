@@ -1,0 +1,111 @@
+[BQ-PYTHON-SDK][WARNING] - Beta version 0.19.1b1 of BlueQubit Python SDK is being used.
+P4 [1e-05, 2e-05, 3e-05, 5e-05, 0.0001] /Users/monitsharma/code_projects/otoc/results/P4__gpu_1e-5_2e-5_3e-5_5e-5_1e-4.jsonl
+[BQ-PYTHON-SDK][INFO] - Submitted: Job ID: jItodcu9g71l4Ecn, name: P4_0_gpu1e-05, device: pauli-path.gpu, run status: RUNNING, created on: 2026-11-22 04:24:28 UTC, estimated runtime: 100 ms, allowed runtime: 1260000 ms, estimated cost: $0.67, num qubits: 30
+{"q": 0, "value": 0.00017712835846909387, "thr": 1e-05, "status": "COMPLETED", "wall": 96.7, "cost": 0.2, "job_id": "jItodcu9g71l4Ecn"}
+[BQ-PYTHON-SDK][INFO] - Submitted: Job ID: fQg6h4fUG2Gb6bjR, name: P4_1_gpu1e-05, device: pauli-path.gpu, run status: RUNNING, created on: 2026-11-22 04:26:31 UTC, estimated runtime: 100 ms, allowed runtime: 1260000 ms, estimated cost: $0.67, num qubits: 30
+{"q": 1, "value": 0.005646720360378009, "thr": 1e-05, "status": "COMPLETED", "wall": 87.4, "cost": 0.2, "job_id": "fQg6h4fUG2Gb6bjR"}
+q=2 t=1e-05 fail: Job lz9Hw9coe2r7xul1 finished with status: FAILED_VALIDATION. Truncation threshold used is too small for the input circu
+q=2 t=2e-05 fail: Job RS6e57nenJJVsQ2c finished with status: FAILED_VALIDATION. Truncation threshold used is too small for the input circu
+[BQ-PYTHON-SDK][INFO] - Submitted: Job ID: XQdEWuQ2vNZQAwGW, name: P4_2_gpu3e-05, device: pauli-path.gpu, run status: RUNNING, created on: 2026-11-22 04:28:25 UTC, estimated runtime: 100 ms, allowed runtime: 1260000 ms, estimated cost: $0.67, num qubits: 30
+{"q": 2, "value": -0.00033157401729202573, "thr": 3e-05, "status": "COMPLETED", "wall": 38.1, "cost": 0.2, "job_id": "XQdEWuQ2vNZQAwGW"}
+q=3 t=1e-05 fail: Job ym9XfWqj8J7SzIS0 finished with status: FAILED_VALIDATION. Truncation threshold used is too small for the input circu
+[BQ-PYTHON-SDK][INFO] - Submitted: Job ID: oLhUjB9seqYwvaSX, name: P4_3_gpu2e-05, device: pauli-path.gpu, run status: RUNNING, created on: 2026-11-22 04:29:55 UTC, estimated runtime: 100 ms, allowed runtime: 1260000 ms, estimated cost: $0.67, num qubits: 30
+{"q": 3, "value": -0.0008095177041969855, "thr": 2e-05, "status": "COMPLETED", "wall": 47.5, "cost": 0.2, "job_id": "oLhUjB9seqYwvaSX"}
+[BQ-PYTHON-SDK][INFO] - Submitted: Job ID: G3X3hDL2EcfigHik, name: P4_4_gpu1e-05, device: pauli-path.gpu, run status: RUNNING, created on: 2026-11-22 04:30:36 UTC, estimated runtime: 100 ms, allowed runtime: 1260000 ms, estimated cost: $0.67, num qubits: 30
+{"q": 4, "value": -0.0017720133845738298, "thr": 1e-05, "status": "COMPLETED", "wall": 65.0, "cost": 0.2, "job_id": "G3X3hDL2EcfigHik"}
+q=5 t=1e-05 fail: Job Utaf4t1M3xquAHaq finished with status: FAILED_VALIDATION. Truncation threshold used is too small for the input circu
+[BQ-PYTHON-SDK][INFO] - Submitted: Job ID: HW61OyL78qPYHo2E, name: P4_5_gpu2e-05, device: pauli-path.gpu, run status: RUNNING, created on: 2026-11-22 04:31:56 UTC, estimated runtime: 100 ms, allowed runtime: 1260000 ms, estimated cost: $0.67, num qubits: 30
+{"q": 5, "value": -0.0001961870932819492, "thr": 2e-05, "status": "COMPLETED", "wall": 43.4, "cost": 0.2, "job_id": "HW61OyL78qPYHo2E"}
+[BQ-PYTHON-SDK][INFO] - Submitted: Job ID: sp73XCG1zCyfgyxo, name: P4_6_gpu1e-05, device: pauli-path.gpu, run status: RUNNING, created on: 2026-11-22 04:32:44 UTC, estimated runtime: 100 ms, allowed runtime: 1260000 ms, estimated cost: $0.67, num qubits: 30
+{"q": 6, "value": -0.00407116472740399, "thr": 1e-05, "status": "COMPLETED", "wall": 73.0, "cost": 0.2, "job_id": "sp73XCG1zCyfgyxo"}
+[BQ-PYTHON-SDK][INFO] - Submitted: Job ID: CevbSvYFbvYeqH3d, name: P4_7_gpu1e-05, device: pauli-path.gpu, run status: RUNNING, created on: 2026-11-22 04:33:52 UTC, estimated runtime: 100 ms, allowed runtime: 1260000 ms, estimated cost: $0.67, num qubits: 30
+{"q": 7, "value": -0.00018080186881715517, "thr": 1e-05, "status": "COMPLETED", "wall": 60.5, "cost": 0.2, "job_id": "CevbSvYFbvYeqH3d"}
+[BQ-PYTHON-SDK][INFO] - Submitted: Job ID: QLnzxYl93dyqmJws, name: P4_8_gpu1e-05, device: pauli-path.gpu, run status: RUNNING, created on: 2026-11-22 04:34:50 UTC, estimated runtime: 100 ms, allowed runtime: 1260000 ms, estimated cost: $0.67, num qubits: 30
+{"q": 8, "value": -0.002698541381554265, "thr": 1e-05, "status": "COMPLETED", "wall": 62.3, "cost": 0.2, "job_id": "QLnzxYl93dyqmJws"}
+q=9 t=1e-05 fail: Job fXrSXOV183GVSrns finished with status: FAILED_VALIDATION. Truncation threshold used is too small for the input circu
+[BQ-PYTHON-SDK][INFO] - Submitted: Job ID: X4gfkUkBK8eqi1c1, name: P4_9_gpu2e-05, device: pauli-path.gpu, run status: RUNNING, created on: 2026-11-22 04:36:29 UTC, estimated runtime: 100 ms, allowed runtime: 1260000 ms, estimated cost: $0.67, num qubits: 30
+{"q": 9, "value": 0.0019813912338212674, "thr": 2e-05, "status": "COMPLETED", "wall": 53.3, "cost": 0.2, "job_id": "X4gfkUkBK8eqi1c1"}
+q=10 t=1e-05 fail: Job k3tlUebs9dfJPECU finished with status: FAILED_VALIDATION. Truncation threshold used is too small for the input circu
+q=10 t=2e-05 fail: Job iuOy9pss2MMWWZVl finished with status: FAILED_VALIDATION. Truncation threshold used is too small for the input circu
+[BQ-PYTHON-SDK][INFO] - Submitted: Job ID: vWM6t2x3i8VUTV4L, name: P4_10_gpu3e-05, device: pauli-path.gpu, run status: RUNNING, created on: 2026-11-22 04:37:57 UTC, estimated runtime: 100 ms, allowed runtime: 1260000 ms, estimated cost: $0.67, num qubits: 30
+{"q": 10, "value": 0.00792234721368532, "thr": 3e-05, "status": "COMPLETED", "wall": 25.5, "cost": 0.2, "job_id": "vWM6t2x3i8VUTV4L"}
+[BQ-PYTHON-SDK][INFO] - Submitted: Job ID: ZUFaDmB129ERcGVM, name: P4_11_gpu1e-05, device: pauli-path.gpu, run status: RUNNING, created on: 2026-11-22 04:38:30 UTC, estimated runtime: 100 ms, allowed runtime: 1260000 ms, estimated cost: $0.67, num qubits: 30
+{"q": 11, "value": 0.016183884197217984, "thr": 1e-05, "status": "COMPLETED", "wall": 123.8, "cost": 0.2, "job_id": "ZUFaDmB129ERcGVM"}
+[BQ-PYTHON-SDK][INFO] - Submitted: Job ID: xqR4BKrLr4EwYZs3, name: P4_12_gpu1e-05, device: pauli-path.gpu, run status: RUNNING, created on: 2026-11-22 04:40:28 UTC, estimated runtime: 100 ms, allowed runtime: 1260000 ms, estimated cost: $0.67, num qubits: 30
+{"q": 12, "value": -0.0016444592858502081, "thr": 1e-05, "status": "COMPLETED", "wall": 58.4, "cost": 0.2, "job_id": "xqR4BKrLr4EwYZs3"}
+q=13 t=1e-05 fail: Job TRi3QYQ5xK1R0vYM finished with status: FAILED_VALIDATION. Truncation threshold used is too small for the input circu
+[BQ-PYTHON-SDK][INFO] - Submitted: Job ID: uDdNa93g70mAUu4N, name: P4_13_gpu2e-05, device: pauli-path.gpu, run status: RUNNING, created on: 2026-11-22 04:41:58 UTC, estimated runtime: 100 ms, allowed runtime: 1260000 ms, estimated cost: $0.67, num qubits: 30
+{"q": 13, "value": -0.010673116279613475, "thr": 2e-05, "status": "COMPLETED", "wall": 42.5, "cost": 0.2, "job_id": "uDdNa93g70mAUu4N"}
+q=14 t=1e-05 fail: Job xQlBnftNlzu5cBeB finished with status: FAILED_VALIDATION. Truncation threshold used is too small for the input circu
+q=14 t=2e-05 fail: Job uIJuPa46smmR6C3O finished with status: FAILED_VALIDATION. Truncation threshold used is too small for the input circu
+[BQ-PYTHON-SDK][INFO] - Submitted: Job ID: BjJ65H7p8OQvzvSk, name: P4_14_gpu3e-05, device: pauli-path.gpu, run status: RUNNING, created on: 2026-11-22 04:43:48 UTC, estimated runtime: 100 ms, allowed runtime: 1260000 ms, estimated cost: $0.67, num qubits: 30
+{"q": 14, "value": -0.0002955812770161473, "thr": 3e-05, "status": "COMPLETED", "wall": 37.4, "cost": 0.2, "job_id": "BjJ65H7p8OQvzvSk"}
+q=15 t=1e-05 fail: Job 8UWQZOKPEPS3Kk9N finished with status: FAILED_VALIDATION. Truncation threshold used is too small for the input circu
+[BQ-PYTHON-SDK][INFO] - Submitted: Job ID: LWQL2iBiNI2N0HLN, name: P4_15_gpu2e-05, device: pauli-path.gpu, run status: RUNNING, created on: 2026-11-22 04:44:52 UTC, estimated runtime: 100 ms, allowed runtime: 1260000 ms, estimated cost: $0.67, num qubits: 30
+{"q": 15, "value": -0.0020128212755769156, "thr": 2e-05, "status": "COMPLETED", "wall": 38.8, "cost": 0.2, "job_id": "LWQL2iBiNI2N0HLN"}
+q=16 t=1e-05 fail: Job ETigFOx2mOybI9WC finished with status: FAILED_VALIDATION. Truncation threshold used is too small for the input circu
+q=16 t=2e-05 fail: Job PLQJIp3SYk4jmpHC finished with status: FAILED_VALIDATION. Truncation threshold used is too small for the input circu
+q=16 t=3e-05 fail: Job v1zjfsBSQHwRoR6H finished with status: FAILED_VALIDATION. Truncation threshold used is too small for the input circu
+[BQ-PYTHON-SDK][INFO] - Submitted: Job ID: SKfv0CMqDF5kkvdW, name: P4_16_gpu5e-05, device: pauli-path.gpu, run status: RUNNING, created on: 2026-11-22 04:46:33 UTC, estimated runtime: 100 ms, allowed runtime: 1260000 ms, estimated cost: $0.67, num qubits: 30
+{"q": 16, "value": -0.0003091352021963866, "thr": 5e-05, "status": "COMPLETED", "wall": 30.6, "cost": 0.2, "job_id": "SKfv0CMqDF5kkvdW"}
+q=17 t=1e-05 fail: Job rzOt5CEiQRP7lebH finished with status: FAILED_VALIDATION. Truncation threshold used is too small for the input circu
+q=17 t=2e-05 fail: Job FeFrwsRq4Ep4JgOu finished with status: FAILED_VALIDATION. Truncation threshold used is too small for the input circu
+[BQ-PYTHON-SDK][INFO] - Submitted: Job ID: mhrfLn56x1NlYsrX, name: P4_17_gpu3e-05, device: pauli-path.gpu, run status: PENDING, created on: 2026-11-22 04:48:00 UTC, estimated runtime: 100 ms, allowed runtime: 1260000 ms, estimated cost: $0.67, num qubits: 30
+[BQ-PYTHON-SDK][INFO] - Status changed: Job ID: mhrfLn56x1NlYsrX. From PENDING to RUNNING.
+{"q": 17, "value": -0.00011688883430258361, "thr": 3e-05, "status": "COMPLETED", "wall": 51.2, "cost": 0.2, "job_id": "mhrfLn56x1NlYsrX"}
+q=18 t=1e-05 fail: Job 9wIjVXKsYyHnvLlP finished with status: FAILED_VALIDATION. Truncation threshold used is too small for the input circu
+q=18 t=2e-05 fail: Job ixo1siqGthSRTQBn finished with status: FAILED_VALIDATION. Truncation threshold used is too small for the input circu
+[BQ-PYTHON-SDK][INFO] - Submitted: Job ID: IrWyMvLgIt16jsTD, name: P4_18_gpu3e-05, device: pauli-path.gpu, run status: RUNNING, created on: 2026-11-22 04:50:02 UTC, estimated runtime: 100 ms, allowed runtime: 1260000 ms, estimated cost: $0.67, num qubits: 30
+{"q": 18, "value": 0.0, "thr": 3e-05, "status": "COMPLETED", "wall": 31.4, "cost": 0.2, "job_id": "IrWyMvLgIt16jsTD"}
+q=19 t=1e-05 fail: Job TTnxOaIpHFjUcn4W finished with status: FAILED_VALIDATION. Truncation threshold used is too small for the input circu
+q=19 t=2e-05 fail: Job UwFqDcMRAbxuhTkt finished with status: FAILED_VALIDATION. Truncation threshold used is too small for the input circu
+q=19 t=3e-05 fail: Job vi2ajLpo7r2HHfPM finished with status: FAILED_VALIDATION. Truncation threshold used is too small for the input circu
+[BQ-PYTHON-SDK][INFO] - Submitted: Job ID: BHZPU8EsH6odLBs2, name: P4_19_gpu5e-05, device: pauli-path.gpu, run status: RUNNING, created on: 2026-11-22 04:51:46 UTC, estimated runtime: 100 ms, allowed runtime: 1260000 ms, estimated cost: $0.67, num qubits: 30
+{"q": 19, "value": -0.0018933951755348635, "thr": 5e-05, "status": "COMPLETED", "wall": 26.4, "cost": 0.2, "job_id": "BHZPU8EsH6odLBs2"}
+[BQ-PYTHON-SDK][INFO] - Submitted: Job ID: kp4X5NjcOeGvfQ74, name: P4_20_gpu1e-05, device: pauli-path.gpu, run status: RUNNING, created on: 2026-11-22 04:52:16 UTC, estimated runtime: 100 ms, allowed runtime: 1260000 ms, estimated cost: $0.67, num qubits: 30
+{"q": 20, "value": -0.0005518645900038712, "thr": 1e-05, "status": "COMPLETED", "wall": 58.3, "cost": 0.2, "job_id": "kp4X5NjcOeGvfQ74"}
+q=21 t=1e-05 fail: Job c1llyg9qr81Fvhwv finished with status: FAILED_VALIDATION. Truncation threshold used is too small for the input circu
+[BQ-PYTHON-SDK][INFO] - Submitted: Job ID: w3J1HQP2vOSXwYCK, name: P4_21_gpu2e-05, device: pauli-path.gpu, run status: RUNNING, created on: 2026-11-22 04:53:38 UTC, estimated runtime: 100 ms, allowed runtime: 1260000 ms, estimated cost: $0.67, num qubits: 30
+{"q": 21, "value": -0.00014782454762365347, "thr": 2e-05, "status": "COMPLETED", "wall": 42.7, "cost": 0.2, "job_id": "w3J1HQP2vOSXwYCK"}
+[BQ-PYTHON-SDK][INFO] - Submitted: Job ID: vDXrGicZan3ljlnK, name: P4_22_gpu1e-05, device: pauli-path.gpu, run status: RUNNING, created on: 2026-11-22 04:54:24 UTC, estimated runtime: 100 ms, allowed runtime: 1260000 ms, estimated cost: $0.67, num qubits: 30
+{"q": 22, "value": -0.003821857623769555, "thr": 1e-05, "status": "COMPLETED", "wall": 69.7, "cost": 0.2, "job_id": "vDXrGicZan3ljlnK"}
+q=23 t=1e-05 fail: Job HS7rKkZdHgMJTbVl finished with status: FAILED_VALIDATION. Truncation threshold used is too small for the input circu
+[BQ-PYTHON-SDK][INFO] - Submitted: Job ID: MtLayIyo3YsNTsLz, name: P4_23_gpu2e-05, device: pauli-path.gpu, run status: RUNNING, created on: 2026-11-22 04:55:56 UTC, estimated runtime: 100 ms, allowed runtime: 1260000 ms, estimated cost: $0.67, num qubits: 30
+{"q": 23, "value": -2.6635825067302902e-05, "thr": 2e-05, "status": "COMPLETED", "wall": 35.7, "cost": 0.2, "job_id": "MtLayIyo3YsNTsLz"}
+[BQ-PYTHON-SDK][INFO] - Submitted: Job ID: MhAiKWRRIXb0kQJ0, name: P4_24_gpu1e-05, device: pauli-path.gpu, run status: PENDING, created on: 2026-11-22 04:56:32 UTC, estimated runtime: 100 ms, allowed runtime: 1260000 ms, estimated cost: $0.67, num qubits: 30
+[BQ-PYTHON-SDK][INFO] - Status changed: Job ID: MhAiKWRRIXb0kQJ0. From PENDING to RUNNING.
+{"q": 24, "value": -0.0017992490166434925, "thr": 1e-05, "status": "COMPLETED", "wall": 65.5, "cost": 0.2, "job_id": "MhAiKWRRIXb0kQJ0"}
+q=25 t=1e-05 fail: Job KEPTWoCG4LDYfclF finished with status: FAILED_VALIDATION. Truncation threshold used is too small for the input circu
+[BQ-PYTHON-SDK][INFO] - Submitted: Job ID: qdpVpxJ1Y91Cjz5f, name: P4_25_gpu2e-05, device: pauli-path.gpu, run status: RUNNING, created on: 2026-11-22 04:58:01 UTC, estimated runtime: 100 ms, allowed runtime: 1260000 ms, estimated cost: $0.67, num qubits: 30
+{"q": 25, "value": -0.031190947837337033, "thr": 2e-05, "status": "COMPLETED", "wall": 91.6, "cost": 0.2, "job_id": "qdpVpxJ1Y91Cjz5f"}
+q=26 t=1e-05 fail: Job jpR9Slt7w9w0aNz9 finished with status: FAILED_VALIDATION. Truncation threshold used is too small for the input circu
+q=26 t=2e-05 fail: Job TO3zZXxN3N5yEwaB finished with status: FAILED_VALIDATION. Truncation threshold used is too small for the input circu
+[BQ-PYTHON-SDK][INFO] - Submitted: Job ID: AS0BHMACi94waAWm, name: P4_26_gpu3e-05, device: pauli-path.gpu, run status: RUNNING, created on: 2026-11-22 05:00:25 UTC, estimated runtime: 100 ms, allowed runtime: 1260000 ms, estimated cost: $0.67, num qubits: 30
+{"q": 26, "value": 0.0003388954134876209, "thr": 3e-05, "status": "COMPLETED", "wall": 44.0, "cost": 0.2, "job_id": "AS0BHMACi94waAWm"}
+q=27 t=1e-05 fail: Job H7iPtlzcbawivsND finished with status: FAILED_VALIDATION. Truncation threshold used is too small for the input circu
+[BQ-PYTHON-SDK][INFO] - Submitted: Job ID: czYARR2erJM4ye2B, name: P4_27_gpu2e-05, device: pauli-path.gpu, run status: RUNNING, created on: 2026-11-22 05:01:52 UTC, estimated runtime: 100 ms, allowed runtime: 1260000 ms, estimated cost: $0.67, num qubits: 30
+{"q": 27, "value": -0.00017769923010870024, "thr": 2e-05, "status": "COMPLETED", "wall": 57.8, "cost": 0.2, "job_id": "czYARR2erJM4ye2B"}
+q=28 t=1e-05 fail: Job sWSc6xomOqaiSFaO finished with status: FAILED_VALIDATION. Truncation threshold used is too small for the input circu
+[BQ-PYTHON-SDK][INFO] - Submitted: Job ID: N761xh2cgNGALtrm, name: P4_28_gpu2e-05, device: pauli-path.gpu, run status: RUNNING, created on: 2026-11-22 05:03:02 UTC, estimated runtime: 100 ms, allowed runtime: 1260000 ms, estimated cost: $0.67, num qubits: 30
+{"q": 28, "value": -0.0042304976806167875, "thr": 2e-05, "status": "COMPLETED", "wall": 47.6, "cost": 0.2, "job_id": "N761xh2cgNGALtrm"}
+[BQ-PYTHON-SDK][INFO] - Submitted: Job ID: I1eMbfEdWwdCl4JG, name: P4_29_gpu1e-05, device: pauli-path.gpu, run status: RUNNING, created on: 2026-11-22 05:03:37 UTC, estimated runtime: 100 ms, allowed runtime: 1260000 ms, estimated cost: $0.67, num qubits: 30
+{"q": 29, "value": 0.0009897192854559581, "thr": 1e-05, "status": "COMPLETED", "wall": 62.4, "cost": 0.2, "job_id": "I1eMbfEdWwdCl4JG"}
+P3 [1e-05, 2e-05, 3e-05, 5e-05, 0.0001] /Users/monitsharma/code_projects/otoc/results/P3__gpu_1e-5_2e-5_3e-5_5e-5_1e-4.jsonl
+[BQ-PYTHON-SDK][INFO] - Submitted: Job ID: ZjirywPwEeaxtVFR, name: P3_0_gpu1e-05, device: pauli-path.gpu, run status: RUNNING, created on: 2026-11-22 05:04:55 UTC, estimated runtime: 100 ms, allowed runtime: 1260000 ms, estimated cost: $0.67, num qubits: 30
+{"q": 0, "value": -0.4710362599717367, "thr": 1e-05, "status": "COMPLETED", "wall": 42.4, "cost": 0.2, "job_id": "ZjirywPwEeaxtVFR"}
+[BQ-PYTHON-SDK][INFO] - Submitted: Job ID: o1Ulis0s4kWnJr5z, name: P3_1_gpu1e-05, device: pauli-path.gpu, run status: RUNNING, created on: 2026-11-22 05:05:37 UTC, estimated runtime: 100 ms, allowed runtime: 1260000 ms, estimated cost: $0.67, num qubits: 30
+{"q": 1, "value": -0.0037980955761825635, "thr": 1e-05, "status": "COMPLETED", "wall": 49.1, "cost": 0.2, "job_id": "o1Ulis0s4kWnJr5z"}
+[BQ-PYTHON-SDK][INFO] - Submitted: Job ID: kDPRirEtzThPrBZN, name: P3_2_gpu1e-05, device: pauli-path.gpu, run status: RUNNING, created on: 2026-11-22 05:06:25 UTC, estimated runtime: 100 ms, allowed runtime: 1260000 ms, estimated cost: $0.67, num qubits: 30
+{"q": 2, "value": 0.005827471898353951, "thr": 1e-05, "status": "COMPLETED", "wall": 85.9, "cost": 0.2, "job_id": "kDPRirEtzThPrBZN"}
+q=3 t=1e-05 fail: Job 9z0BYwleVDjVt9Wq finished with status: FAILED_VALIDATION. Truncation threshold used is too small for the input circu
+q=3 t=2e-05 fail: Job YTSgoHCTDksWnKL5 finished with status: FAILED_VALIDATION. Truncation threshold used is too small for the input circu
+q=3 t=3e-05 fail: Job PkUeVUNpK2cLiXKv finished with status: FAILED_VALIDATION. Truncation threshold used is too small for the input circu
+[BQ-PYTHON-SDK][INFO] - Submitted: Job ID: y5FNmW62zYGyRxlQ, name: P3_3_gpu5e-05, device: pauli-path.gpu, run status: RUNNING, created on: 2026-11-22 05:09:32 UTC, estimated runtime: 100 ms, allowed runtime: 1260000 ms, estimated cost: $0.67, num qubits: 30
+{"q": 3, "value": 0.0, "thr": 5e-05, "status": "COMPLETED", "wall": 41.7, "cost": 0.2, "job_id": "y5FNmW62zYGyRxlQ"}
+[BQ-PYTHON-SDK][INFO] - Submitted: Job ID: rOYbZScvLkZGp8C2, name: P3_4_gpu1e-05, device: pauli-path.gpu, run status: RUNNING, created on: 2026-11-22 05:10:14 UTC, estimated runtime: 100 ms, allowed runtime: 1260000 ms, estimated cost: $0.67, num qubits: 30
+{"q": 4, "value": 0.007067905181127938, "thr": 1e-05, "status": "COMPLETED", "wall": 99.7, "cost": 0.2, "job_id": "rOYbZScvLkZGp8C2"}
+[BQ-PYTHON-SDK][INFO] - Submitted: Job ID: 8xv12G3T4dX3qxyL, name: P3_5_gpu1e-05, device: pauli-path.gpu, run status: PENDING, created on: 2026-11-22 05:11:53 UTC, estimated runtime: 100 ms, allowed runtime: 1260000 ms, estimated cost: $0.67, num qubits: 30
+[BQ-PYTHON-SDK][INFO] - Status changed: Job ID: 8xv12G3T4dX3qxyL. From PENDING to RUNNING.
+{"q": 5, "value": -0.0558117731247078, "thr": 1e-05, "status": "COMPLETED", "wall": 155.9, "cost": 0.2, "job_id": "8xv12G3T4dX3qxyL"}
+q=6 t=1e-05 fail: Job JZfmERdEWYWoZnRO finished with status: FAILED_VALIDATION. Truncation threshold used is too small for the input circu
+q=6 t=2e-05 fail: Job aiL6Sz7LMt7qAhJQ finished with status: FAILED_VALIDATION. Truncation threshold used is too small for the input circu

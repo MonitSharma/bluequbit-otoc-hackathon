@@ -1,0 +1,26 @@
+[BQ-PYTHON-SDK][WARNING] - Beta version 0.19.1b1 of BlueQubit Python SDK is being used.
+P3 mps.cpu {'mps_bond_dimension': 128} -> /Users/monitsharma/code_projects/otoc/results/P3__mps.cpu_dimension128.jsonl; todo [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29]
+[BQ-PYTHON-SDK][INFO] - Submitted: Job ID: CQqzYSMMWTmCaVaw, name: P3_0_mps.cpu_dimension128, device: mps.cpu, run status: RUNNING, created on: 2026-11-22 04:39:51 UTC, estimated runtime: 3102200 ms, allowed runtime: 7704400 ms, estimated cost: $1.30, num qubits: 30, shots: 1024
+submitted q=0 job=CQqzYSMMWTmCaVaw
+[BQ-PYTHON-SDK][INFO] - Submitted: Job ID: 2QzyegDqjLrqE7Yi, name: P3_1_mps.cpu_dimension128, device: mps.cpu, run status: RUNNING, created on: 2026-11-22 04:39:52 UTC, estimated runtime: 3102200 ms, allowed runtime: 7704400 ms, estimated cost: $1.30, num qubits: 30, shots: 1024
+submitted q=1 job=2QzyegDqjLrqE7Yi
+[BQ-PYTHON-SDK][INFO] - Submitted: Job ID: ilJpwbmDdSpGefHx, name: P3_2_mps.cpu_dimension128, device: mps.cpu, run status: RUNNING, created on: 2026-11-22 04:39:54 UTC, estimated runtime: 3102200 ms, allowed runtime: 7704400 ms, estimated cost: $1.30, num qubits: 30, shots: 1024
+submitted q=2 job=ilJpwbmDdSpGefHx
+{"q": 0, "id": "MQW_P3_0", "value": -0.009008794283120165, "status": "COMPLETED", "job_id": "CQqzYSMMWTmCaVaw", "wall": 370.6, "run_time_ms": 360279, "cost": 0.0, "error": null}
+[BQ-PYTHON-SDK][INFO] - Submitted: Job ID: pt3Jb68lB2587VDA, name: P3_3_mps.cpu_dimension128, device: mps.cpu, run status: RUNNING, created on: 2026-11-22 04:46:04 UTC, estimated runtime: 3102200 ms, allowed runtime: 7704400 ms, estimated cost: $1.30, num qubits: 30, shots: 1024
+submitted q=3 job=pt3Jb68lB2587VDA
+{"q": 1, "id": "MQW_P3_1", "value": 0.002074641873138789, "status": "COMPLETED", "job_id": "2QzyegDqjLrqE7Yi", "wall": 726.1, "run_time_ms": 724762, "cost": 0.0, "error": null}
+[BQ-PYTHON-SDK][INFO] - Submitted: Job ID: sPoZZn6Efa3P2jx2, name: P3_4_mps.cpu_dimension128, device: mps.cpu, run status: PENDING, created on: 2026-11-22 04:52:00 UTC, estimated runtime: 3102200 ms, allowed runtime: 7704400 ms, estimated cost: $1.30, num qubits: 30, shots: 1024
+submitted q=4 job=sPoZZn6Efa3P2jx2
+{"q": 2, "id": "MQW_P3_2", "value": 0.0030790419120015735, "status": "COMPLETED", "job_id": "ilJpwbmDdSpGefHx", "wall": 803.5, "run_time_ms": 792686, "cost": 0.0, "error": null}
+[BQ-PYTHON-SDK][INFO] - Submitted: Job ID: Xte2IgwxB07qeO4k, name: P3_5_mps.cpu_dimension128, device: mps.cpu, run status: RUNNING, created on: 2026-11-22 04:53:20 UTC, estimated runtime: 3102200 ms, allowed runtime: 7704400 ms, estimated cost: $1.30, num qubits: 30, shots: 1024
+submitted q=5 job=Xte2IgwxB07qeO4k
+{"q": 3, "id": "MQW_P3_3", "value": 0.000604221164138021, "status": "COMPLETED", "job_id": "pt3Jb68lB2587VDA", "wall": 798.8, "run_time_ms": 791009, "cost": 0.0, "error": null}
+[BQ-PYTHON-SDK][INFO] - Submitted: Job ID: 8quFMfaccb6UEacq, name: P3_6_mps.cpu_dimension128, device: mps.cpu, run status: PENDING, created on: 2026-11-22 04:59:25 UTC, estimated runtime: 3102200 ms, allowed runtime: 7704400 ms, estimated cost: $1.30, num qubits: 30, shots: 1024
+submitted q=6 job=8quFMfaccb6UEacq
+{"q": 4, "id": "MQW_P3_4", "value": 3.2775718921881575e-17, "status": "COMPLETED", "job_id": "sPoZZn6Efa3P2jx2", "wall": 665.8, "run_time_ms": 612087, "cost": 0.0, "error": null}
+[BQ-PYTHON-SDK][INFO] - Submitted: Job ID: xyIBzOi8eIpzngIG, name: P3_7_mps.cpu_dimension128, device: mps.cpu, run status: RUNNING, created on: 2026-11-22 05:03:09 UTC, estimated runtime: 3102200 ms, allowed runtime: 7704400 ms, estimated cost: $1.30, num qubits: 30, shots: 1024
+submitted q=7 job=xyIBzOi8eIpzngIG
+{"q": 5, "id": "MQW_P3_5", "value": -1.129240026718305e-16, "status": "COMPLETED", "job_id": "Xte2IgwxB07qeO4k", "wall": 621.4, "run_time_ms": 613830, "cost": 0.0, "error": null}
+[BQ-PYTHON-SDK][INFO] - Submitted: Job ID: SsOVWjHfbw1KF6Wi, name: P3_8_mps.cpu_dimension128, device: mps.cpu, run status: RUNNING, created on: 2026-11-22 05:03:44 UTC, estimated runtime: 3102200 ms, allowed runtime: 7704400 ms, estimated cost: $1.30, num qubits: 30, shots: 1024
+submitted q=8 job=SsOVWjHfbw1KF6Wi
